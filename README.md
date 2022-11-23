@@ -1,2 +1,2 @@
 # Manas24vani.github.io
-Personal website 
+Welcome this is Manas Vani's personal website 
